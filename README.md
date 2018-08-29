@@ -1,2 +1,2 @@
 # Python_codewars
-TEST
+123
